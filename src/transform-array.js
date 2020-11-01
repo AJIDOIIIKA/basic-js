@@ -35,5 +35,5 @@ module.exports = function transform(arr) {
         newArr.push(arr[i]);
     };
   };
-  return newArr  
+  return newArr  ;
 };
